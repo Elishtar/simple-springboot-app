@@ -11,7 +11,6 @@ public class StudentApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		asljaj
 	}
 
 }
