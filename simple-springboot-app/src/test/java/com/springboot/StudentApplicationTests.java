@@ -11,7 +11,7 @@ public class StudentApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		asljajkf
+		asljaj
 	}
 
 }
